@@ -85,6 +85,9 @@
 
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+### WakaTime
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst)](https://github.com/gylfirst)
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -131,4 +134,4 @@
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 15/12/2023
+Last Edited on: 02/01/2024
