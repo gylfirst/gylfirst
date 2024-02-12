@@ -7,7 +7,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/gylfirst/gylfirst/resources/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
@@ -15,13 +15,14 @@
 - Currently learning Information System Security
 - Playing games when i have time
 - Personal website [link](https://www.matthieu-t.fr)
+- Currently Intership for <ins>SNCF Réseau</ins> in <ins>Supervision & Monitoring Service</ins>
 <!-- 
 - I’m currently open for an Intern or a new job opportunity, this is [my curriculum vitae](https://matthieu-t.fr/cv)
 -->
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br><img src="https://github.com/gylfirst/gylfirst/resources/loading.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://github.com/gylfirst/gylfirst/resources/dev.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -32,6 +33,7 @@
     ![Shell](https://img.shields.io/badge/Shell%20-%2300599C.svg?style=for-the-badge&logo=shell&logoColor=white)
     ![LaTeX](https://img.shields.io/badge/LaTeX%20-%2314354C.svg?style=for-the-badge&logo=latex&logoColor=white&color=0d4d6e)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![RobotFramework](https://img.shields.io/badge/RobotFramework%20-%2314253C.svg?style=for-the-badge&logo=robotframework&logoColor=white)
 <!--
 <br>   
     
@@ -67,10 +69,10 @@
 
 </p>
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br><img src="https://github.com/gylfirst/gylfirst/resources/loading.gif"><br><br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/gylfirst/gylfirst/resources/stats.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -83,12 +85,12 @@
 </div>
 
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br><img src="https://github.com/gylfirst/gylfirst/resources/loading.gif"><br><br>
 
 ### WakaTime
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst)](https://github.com/gylfirst)
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/gylfirst/gylfirst/resources/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -120,7 +122,7 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/gylfirst/gylfirst/resources/loading.gif">
 <br>
 
 
@@ -130,8 +132,8 @@
 
 </div>
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br><img src="https://github.com/gylfirst/gylfirst/resources/loading.gif"><br><br>
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 02/01/2024
+Last Edited on: 12/02/2024
