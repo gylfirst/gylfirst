@@ -7,7 +7,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/gylfirst/gylfirst/resources/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/gylfirst/gylfirst/blob/main/resources/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 <br>
 
@@ -20,9 +20,9 @@
 - I’m currently open for an Intern or a new job opportunity, this is [my curriculum vitae](https://matthieu-t.fr/cv)
 -->
 
-<br><br><img src="https://github.com/gylfirst/gylfirst/resources/loading.gif"><br><br>
+<br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
 
-## <img src="https://github.com/gylfirst/gylfirst/resources/dev.gif" width ="25"><b> Skills</b>
+## <img src="https://github.com/gylfirst/gylfirst/blob/main/resources/dev.gif?raw=true" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -69,10 +69,10 @@
 
 </p>
 
-<br><br><img src="https://github.com/gylfirst/gylfirst/resources/loading.gif"><br><br>
+<br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
 
 
-## <img src="https://github.com/gylfirst/gylfirst/resources/stats.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/gylfirst/gylfirst/blob/main/resources/stats.gif?raw=true" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -85,12 +85,12 @@
 </div>
 
 
-<br><br><img src="https://github.com/gylfirst/gylfirst/resources/loading.gif"><br><br>
+<br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
 
 ### WakaTime
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst)](https://github.com/gylfirst)
 
-## <b> Let's Connect..!</b><img src="https://github.com/gylfirst/gylfirst/resources/handshake.gif" width ="80">
+## <b> Let's Connect..! </b><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/handshake.gif?raw=true" width ="80">
 <br>
 <div align='left'>
 
@@ -122,7 +122,7 @@
 </div>
 
 <br>
-<img src="https://github.com/gylfirst/gylfirst/resources/loading.gif">
+<img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true">
 <br>
 
 
@@ -132,7 +132,7 @@
 
 </div>
 
-<br><br><img src="https://github.com/gylfirst/gylfirst/resources/loading.gif"><br><br>
+<br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
