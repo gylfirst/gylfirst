@@ -77,18 +77,22 @@
 
 <div align="center">
 
-<a href="https://github.com/gylfirst/">
+<!-- <a href="https://github.com/gylfirst/">
   <img src="https://github-readme-stats.vercel.app/api?username=gylfirst&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gylfirst&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="gylfirst"/>
 </a>
-</div>
+</div> -->
 
+[![Gylfirst's GitHub Stats](https://raw.githubusercontent.com/gylfirst/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/gylfirst)
+[![Gylfirst's Languages](https://raw.githubusercontent.com/gylfirst/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/gylfirst)
 
-<br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
+<br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br>
 
 ### WakaTime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst)](https://github.com/gylfirst)
+[![Gylfirst's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst)](https://github.com/gylfirst)
+
+</div>
 
 ## <b> Let's Connect..! </b><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/handshake.gif?raw=true" width ="80">
 <br>
@@ -136,4 +140,4 @@
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 12/02/2024
+Last Edited on: 29/02/2024
