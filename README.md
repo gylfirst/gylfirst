@@ -89,8 +89,10 @@
 
 <br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br>
 
-### WakaTime
-[![Gylfirst's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst)](https://github.com/gylfirst)
+### WakaTime (since 02 Jan 2024)
+[![wakatime](https://wakatime.com/badge/user/018ccab2-e55c-41c3-a728-150bc80967d3.svg)](https://wakatime.com/@gylfirst)
+
+[![Gylfirst's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst)](https://wakatime.com/@gylfirst)
 
 </div>
 
