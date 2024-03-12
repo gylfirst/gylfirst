@@ -74,8 +74,9 @@
 
 ## <img src="https://github.com/gylfirst/gylfirst/blob/main/resources/stats.gif?raw=true" width="35"><b> Github Stats </b>
 <br>
-
 <div align="center">
+These statistics are updated every Monday at 00:00.
+<br></br>
 
 <!-- <a href="https://github.com/gylfirst/">
   <img src="https://github-readme-stats.vercel.app/api?username=gylfirst&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
@@ -142,4 +143,4 @@
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 29/02/2024
+Last Edited on: 12/03/2024
