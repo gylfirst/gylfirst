@@ -15,7 +15,6 @@
 - Currently learning Information System Security
 - Playing games when i have time
 - Personal website [link](https://www.matthieu-t.fr)
-- Currently Intership for <ins>SNCF Réseau</ins> in <ins>Supervision & Monitoring Service</ins>
 <!-- 
 - I’m currently open for an Intern or a new job opportunity, this is [my curriculum vitae](https://matthieu-t.fr/cv)
 -->
@@ -75,7 +74,7 @@
 ## <img src="https://github.com/gylfirst/gylfirst/blob/main/resources/stats.gif?raw=true" width="35"><b> Github Stats </b>
 <br>
 <div align="center">
-These statistics are updated every Monday at 00:00.
+These statistics are updated every Monday at approx 03:10AM.
 <br></br>
 
 <!-- <a href="https://github.com/gylfirst/">
@@ -109,15 +108,7 @@ These statistics are updated every Monday at 00:00.
 </a>
 </li>
 
-<br>
-
-<li>
-<a href="https://twitter.com/gylfirst" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  gylfirst-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
+w<br>
 
 <li>
 <a href="mailto:matthieu.tourrette@utt.fr" target="_blank">
@@ -143,4 +134,4 @@ These statistics are updated every Monday at 00:00.
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 12/03/2024
+Last Edited on: 27/07/2024
