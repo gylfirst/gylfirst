@@ -108,7 +108,7 @@ These statistics are updated every Monday at approx 03:10AM.
 </a>
 </li>
 
-w<br>
+<br>
 
 <li>
 <a href="mailto:matthieu.tourrette@utt.fr" target="_blank">
