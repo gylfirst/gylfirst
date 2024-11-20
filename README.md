@@ -112,7 +112,7 @@ These statistics are updated every Monday at approx 03:10AM.
 <br>
 
 <li>
-<a href="mailto:matthieu.tourrette@utt.fr" target="_blank">
+<a href="mailto:contact@matthieu-t.fr" target="_blank">
 <img src="https://img.shields.io/badge/mail:  matthieu tourrette-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -135,4 +135,4 @@ These statistics are updated every Monday at approx 03:10AM.
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 30/09/2024
+Last Edited on: 20/11/2024
