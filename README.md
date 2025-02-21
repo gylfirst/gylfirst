@@ -13,7 +13,6 @@
 
 - A beginner in server admin
 - Currently learning Information System Security
-- Exchange Student at Högskolan i Skövde (6 months)
 - Playing games when i have time
 - Personal website [link](https://www.matthieu-t.fr)
 <!-- 
@@ -135,4 +134,4 @@ These statistics are updated every Monday at approx 03:10AM.
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 20/11/2024
+Last Edited on: 21/02/2025
