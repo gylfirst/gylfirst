@@ -4,7 +4,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Gylfirst;Matthieu+Tourrette;Server+admin;Learner+of+New+Technologies;Player+on+lost+hours" alt="Typing SVG" /></a>
 </p>
 
-
 <br>
 
 ## <picture><img src = "https://github.com/gylfirst/gylfirst/blob/main/resources/about_me.gif?raw=true" width = 50px></picture> **About me**
@@ -22,17 +21,19 @@
 <br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
 
 ## <img src="https://github.com/gylfirst/gylfirst/blob/main/resources/dev.gif?raw=true" width ="25"><b> Skills</b>
+
 <br>
 
 <p align="center">
 
 - **Languages**:
-    
+
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Shell](https://img.shields.io/badge/Shell%20-%2300599C.svg?style=for-the-badge&logo=shell&logoColor=white)
     ![LaTeX](https://img.shields.io/badge/LaTeX%20-%2314354C.svg?style=for-the-badge&logo=latex&logoColor=white&color=0d4d6e)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![RobotFramework](https://img.shields.io/badge/RobotFramework%20-%2314253C.svg?style=for-the-badge&logo=robotframework&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23121011.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <!--
 <br>   
     
@@ -63,15 +64,14 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
 
 <br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
 
-
 ## <img src="https://github.com/gylfirst/gylfirst/blob/main/resources/stats.gif?raw=true" width="35"><b> Github Stats </b>
+
 <br>
 <div align="center">
 These statistics are updated every Monday at approx 03:10AM.
@@ -90,13 +90,15 @@ These statistics are updated every Monday at approx 03:10AM.
 <br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br>
 
 ### WakaTime (since 02 Jan 2024)
+
 [![wakatime](https://wakatime.com/badge/user/018ccab2-e55c-41c3-a728-150bc80967d3.svg)](https://wakatime.com/@gylfirst)
 
-[![Gylfirst's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst)](https://wakatime.com/@gylfirst)
+[![Gylfirst's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylfirst&layout=compact&langs_count=20&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://wakatime.com/@gylfirst)
 
 </div>
 
 ## <b> Let's Connect..! </b><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/handshake.gif?raw=true" width ="80">
+
 <br>
 <div align='left'>
 
@@ -115,14 +117,13 @@ These statistics are updated every Monday at approx 03:10AM.
 <img src="https://img.shields.io/badge/mail:  matthieu tourrette-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
 </ul>
 </div>
 
 <br>
 <img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true">
 <br>
-
 
 <div align='center'>
 
@@ -134,4 +135,4 @@ These statistics are updated every Monday at approx 03:10AM.
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 21/02/2025
+Last Edited on: 27/08/2025
