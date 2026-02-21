@@ -10,13 +10,10 @@
 
 <br>
 
-- A beginner in server admin
-- Currently learning Information System Security
+- Server admin enjoyer (homelabbing)
+- Intership for NXO France as Network Architect Engineer for the end of my studies
 - Playing games when i have time
-- Personal website [link](https://www.matthieu-t.fr)
-<!-- 
-- I’m currently open for an Intern or a new job opportunity, this is [my curriculum vitae](https://matthieu-t.fr/cv)
--->
+- Personal website [link](https://www.matthieu-t.fr) - Currently developping my new website from scratch
 
 <br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
 
@@ -54,10 +51,11 @@
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Proxmox](https://img.shields.io/badge/proxmox-%23F07030.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=white&color=1ba1e4)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
@@ -135,4 +133,4 @@ These statistics are updated every Monday at approx 03:10AM.
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 27/08/2025
+Last Edited on: 21/02/2026
