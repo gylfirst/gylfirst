@@ -10,10 +10,10 @@
 
 <br>
 
-- Server admin enjoyer (homelabbing)
-- Intership for NXO France as Network Architect Engineer for the end of my studies
-- Playing games when i have time
-- Personal website [link](https://www.matthieu-t.fr) - Currently developping my new website from scratch
+- Server admin enjoyer (homelabbing).
+- Working for NXO France as System Administrator for Euro-Information.
+- Playing games when i have time.
+- Personal website [link](https://www.matthieu-t.fr) - Currently developping my new website from scratch.
 
 <br><br><img src="https://github.com/gylfirst/gylfirst/blob/main/resources/loading.gif?raw=true"><br><br>
 
@@ -133,4 +133,4 @@ These statistics are updated every Monday at approx 03:10AM.
 
 Credit: [Gylfirst](https://github.com/gylfirst)
 
-Last Edited on: 21/02/2026
+Last Edited on: 17/08/2026
